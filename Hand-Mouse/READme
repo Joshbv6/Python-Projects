@@ -1,0 +1,11 @@
+hand_mouse.py is a Python Script that lets you use your hand as a mouse.
+
+When you run this script, camera will start to detect and map your hand with landmark.
+
+Once detected, mouse will move to your wherever you move your index position, with pyautogui.moveTo. 
+
+And to make "click" I've implemented the option of touching your index_base with your thumb.
+
+Following the image in this link --> https://www.researchgate.net/publication/357216549/figure/fig2/AS:1103448439304192@1640094017201/Hand-Landmark-in-MediaPipe-38.ppm
+
+Mouse will move to whenever you put the point 8 of your hand, and to make a click, you have to put together the points 5 and 4 of your hand.
