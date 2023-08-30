@@ -1,0 +1,5 @@
+Running this python script will print on the terminal a http url with your IPv4 direction and the port the server is running at.
+
+As long as you're connected to that WiFi network, you can access that URL http://IPv4:Port shown on the terminal with your phone
+
+and now you have a remote control for your PC.
